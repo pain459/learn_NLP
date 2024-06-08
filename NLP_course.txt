@@ -1,3 +1,10 @@
 Env activate
 
 conda activate nlp_course
+
+ Linking successful
+    /home/ravik/anaconda3/envs/nlp_course/lib/python3.7/site-packages/en_core_web_sm
+    -->
+    /home/ravik/anaconda3/envs/nlp_course/lib/python3.7/site-packages/spacy/data/en
+
+    You can now load the model via spacy.load('en')
